@@ -2,7 +2,7 @@
 
 $host = 'localhost';
 $user = 'root';
-$pwd = 'helloindia';
+$pwd = '';
 
 $db = 'hotel management';
 
